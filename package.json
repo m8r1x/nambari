@@ -1,19 +1,19 @@
 {
-  "name": "nambari",
-  "version": "0.0.1",
-  "description": "Convert numbers to words in Swahili",
-  "main": "lib/index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  },
-  "scripts": {
-    "test": "ava"
-  },
-  "keywords": [],
-  "author": "wmik",
-  "license": "MIT",
-  "devDependencies": {
-    "ava": "^0.25.0"
-  }
+	"name": "nambari",
+	"version": "0.0.1",
+	"description": "Convert numbers to words in Swahili",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "ava"
+	},
+	"keywords": ["number to words", "number", "swahili"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/m8r1x/nambari"
+	},
+	"author": "wmik",
+	"license": "MIT",
+	"devDependencies": {
+		"ava": "^0.25.0"
+	}
 }
